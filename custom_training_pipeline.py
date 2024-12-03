@@ -24,7 +24,7 @@ def pipeline():
 
 
 def main():
-    job_name = 'demo_pipeline'
+    job_name = 'custom_training_pipeline'
     job_spec_file_name = f'{job_name}.yaml'
 
     # Then we compile our pipeline
